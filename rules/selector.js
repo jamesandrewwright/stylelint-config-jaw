@@ -6,8 +6,8 @@ module.exports = {
         }
     ],
     "selector-list-comma-newline-after": "always-multi-line",
-    "selector-no-id": true,
+    "selector-max-id": 0,
     "selector-no-qualifying-type": true,
-    "selector-no-type": true,
+    "selector-max-type": 0,
     "selector-pseudo-element-colon-notation": "single",
 };

@@ -7,7 +7,5 @@ module.exports = {
                 "inside-block"
             ]
         }
-    ],
-    "rule-nested-empty-line-before": null,
-    "rule-non-nested-empty-line-before": null,
+    ]
 };

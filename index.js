@@ -1,8 +1,9 @@
 const merge = require('merge');
 
 module.exports = {
+    extends: "stylelint-config-standard",
     plugins: [
-        'stylelint-scss'
+        "stylelint-scss"
     ],
     rules: merge(
         require('./rules/at-rule'),
@@ -18,5 +19,5 @@ module.exports = {
         require('./rules/selector'),
         require('./rules/string'),
         require('./rules/value')
-    ),
+    )
 };
