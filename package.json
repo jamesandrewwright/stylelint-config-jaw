@@ -1,6 +1,6 @@
 {
   "name": "stylelint-config-jaw",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Sensible stylelint configuration from James Wright.  For personal projects - use at own risk as fluid",
   "main": "index.js",
   "author": "James Wright <james@jamesandrewwright.com> (http://www.jamesandrewwright.com)",
